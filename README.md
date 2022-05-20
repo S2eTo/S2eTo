@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 A student..
+- 🌱 I’m currently learning PHP Java Python Go now.
+
 <!--
 **S2eTo/S2eTo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
