@@ -3,7 +3,6 @@
 - 🔭 A student..
 - 🌱 I’m currently learning PHP Java Python Go now.
 - ✨ Gitee: https://gitee.com/J0hNs0N
-- ✨ WeChat 微信公众号: JOHNSON抓什
 
 ### 📖Latest blog posts
 
