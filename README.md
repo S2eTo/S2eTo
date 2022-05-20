@@ -3,6 +3,11 @@
 - 🔭 A student..
 - 🌱 I’m currently learning PHP Java Python Go now.
 
+<p float="left">  
+  <img src="https://github-readme-stats.vercel.app/api?username=S2eTo&show_icons=true&theme=radical" width=53%/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S2eTo&show_icons=true&layout=compact&theme=radical" width=43%/>
+</p>
+
 <!--
 **S2eTo/S2eTo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
