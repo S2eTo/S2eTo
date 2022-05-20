@@ -7,11 +7,10 @@
 ### 📖Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [探索高版本 JDK 下 JNDI 漏洞的利用方法](https://b1ue.cn/archives/529.html)
-- [这篇关于 log4j 漏洞的文章太水了不配拥有标题](https://b1ue.cn/archives/524.html)
-- [log4j 漏洞一些特殊的利用方式](https://b1ue.cn/archives/513.html)
-- [fastjson 读文件 gadget 的利用场景扩展](https://b1ue.cn/archives/506.html)
-- [精确判断网站访问者是否是黑客的方法](https://b1ue.cn/archives/495.html)
+- [Django 安全开发小记](https://forum.butian.net/share/1302)
+- [一次简单的Java代码审计](https://forum.butian.net/share/987)
+- [CVE-2020-36239 - Jira 多款产品RCE漏洞分析](https://forum.butian.net/share/653)
+- [HTTP 2 协议学习与实战](https://forum.butian.net/share/350)
 <!-- BLOG-POST-LIST:END -->
 
 <p float="left">  
