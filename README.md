@@ -5,10 +5,6 @@
 - 🔭 A student..
 - 🌱 I’m currently learning PHP Java Python Go now.
 - ✨ Gitee: https://gitee.com/J0hNs0N
-
-<img src="https://github-readme-stats.vercel.app/api?username=xiaopan233&show_icons=true&theme=radical" style="max-width:100%"/>
-
-
 <!--
 **S2eTo/S2eTo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
