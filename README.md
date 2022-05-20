@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am J0hNs0N.
 
 - 🔭 A student..
 - 🌱 I’m currently learning PHP Java Python Go now.
