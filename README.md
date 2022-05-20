@@ -4,6 +4,8 @@
 
 - 🔭 A student..
 - 🌱 I’m currently learning PHP Java Python Go now.
+- ✨ Gitee: https://gitee.com/J0hNs0N
+- 
 
 
 <!--
@@ -11,8 +13,8 @@
 
 Here are some ideas to get you started:
 
-🔭 A student..
-🌱 I’m currently learning PHP Java Python Go now.
+- 🔭 A student..
+- 🌱 I’m currently learning PHP Java Python Go now.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
