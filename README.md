@@ -1,6 +1,10 @@
 ### Hi there 👋, I am J0hNs0N.
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=S2eTo&show_icons=true&theme=radical" width=40% style="margin-bottom:5px;"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S2eTo&show_icons=true&layout=compact&theme=radical" width=40%/>
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=S2eTo&show_icons=true&theme=radical" width=40% style="margin-bottom:5px;"/>
+  </p>
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S2eTo&show_icons=true&layout=compact&theme=radical" width=40%/>
+</p>
 
 - 🔭 A student..
 - 🌱 I’m currently learning PHP Java Python Go now.
