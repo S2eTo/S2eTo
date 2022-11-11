@@ -2,7 +2,7 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=S2eTo&show_icons=true&theme=radical" width=50%/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S2eTo&show_icons=true&layout=compact&theme=radical" width=50%/>-->
 
-- 🔭 A student..
+- 🔭 JOB: Security Researcher
 - 🌱 I’m currently learning PHP Java Python Go now.
 - ✨ Gitee: https://gitee.com/J0hNs0N
 
