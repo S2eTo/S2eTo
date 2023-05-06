@@ -9,6 +9,8 @@
 ### 📖Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LinkWechat 基于企业微信的 SCRM 系统](https://forum.butian.net/share/2244)
+- [一次对在线文档预览的JAVA代码审计](https://forum.butian.net/share/2088)
 - [Django 安全开发小记](https://forum.butian.net/share/1302)
 - [一次简单的Java代码审计](https://forum.butian.net/share/987)
 - [CVE-2020-36239 - Jira 多款产品RCE漏洞分析](https://forum.butian.net/share/653)
